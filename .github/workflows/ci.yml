@@ -1,3 +1,4 @@
+#ok
 name: build
 on:
   push:
